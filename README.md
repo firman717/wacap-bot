@@ -1,1 +1,1 @@
-# wacap-bot
+tools-bot
